@@ -43,3 +43,33 @@ footer {
     width: 100%;
     bottom: 0;
 }
+
+section {
+    background-color: #f4f4f4;
+    padding: 15px;
+    margin: 20px 0;
+    border-radius: 5px;
+}
+
+h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+p {
+    font-size: 1em;
+    margin-bottom: 10px;
+}
+
+a.btn {
+    background-color: #007BFF;
+    color: white;
+    padding: 10px 15px;
+    text-decoration: none;
+    border-radius: 5px;
+    display: inline-block;
+}
+
+a.btn:hover {
+    background-color: #0056b3;
+}
